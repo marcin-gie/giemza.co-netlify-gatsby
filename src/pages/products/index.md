@@ -1,9 +1,9 @@
 ---
 templateKey: 'product-page'
-path: /products
-title: Our Coffee
+path: /uslugi
+title: Nasza oferta
 image: /img/jumbotron.jpg
-heading: Great coffee with a conscience
+heading: Nasza oferta
 description: >-
   Kaldi is the ultimate spot for coffee lovers who want to learn about their
   java’s origin and support the farmers that grew it. We take coffee production,
